@@ -1,0 +1,25 @@
+/* [project]/app/soriafont_e1a35698.module.css [app-client] (css) */
+@font-face {
+  font-family: soriaFont;
+  src: url("../media/soria_font-s.p.06fuch2p~hll9.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: soriaFont Fallback;
+  src: local(Arial);
+  ascent-override: 92.29%;
+  descent-override: 30.76%;
+  line-gap-override: 0.0%;
+  size-adjust: 81.27%;
+}
+
+.soriafont_e1a35698-module__KqKsRq__className {
+  font-family: soriaFont, soriaFont Fallback;
+}
+
+.soriafont_e1a35698-module__KqKsRq__variable {
+  --font-soria: "soriaFont", "soriaFont Fallback";
+}
+
+/*# sourceMappingURL=app_soriafont_e1a35698_module_css_0w3-wzy._.single.css.map*/

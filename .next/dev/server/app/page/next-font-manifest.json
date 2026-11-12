@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/page": [
+      "static/media/soria_font-s.p.06fuch2p~hll9.ttf",
+      "static/media/Vercetti_Regular-s.p.0ed72y0rybwvr.woff"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

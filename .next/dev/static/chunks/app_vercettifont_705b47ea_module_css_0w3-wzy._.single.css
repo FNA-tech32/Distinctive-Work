@@ -1,0 +1,25 @@
+/* [project]/app/vercettifont_705b47ea.module.css [app-client] (css) */
+@font-face {
+  font-family: vercettiFont;
+  src: url("../media/Vercetti_Regular-s.p.0ed72y0rybwvr.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: vercettiFont Fallback;
+  src: local(Arial);
+  ascent-override: 88.48%;
+  descent-override: 23.22%;
+  line-gap-override: 4.35%;
+  size-adjust: 107.66%;
+}
+
+.vercettifont_705b47ea-module__3Nfmya__className {
+  font-family: vercettiFont, vercettiFont Fallback;
+}
+
+.vercettifont_705b47ea-module__3Nfmya__variable {
+  --font-vercetti: "vercettiFont", "vercettiFont Fallback";
+}
+
+/*# sourceMappingURL=app_vercettifont_705b47ea_module_css_0w3-wzy._.single.css.map*/
